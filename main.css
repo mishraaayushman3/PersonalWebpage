@@ -184,3 +184,10 @@ body {
 	/*background-color: white;*/
 	/*opacity:0.5;*/
 }
+.border{
+	color:purple;
+	padding:10px;
+}
+.left_margin{
+	margin-left: 40px;
+}

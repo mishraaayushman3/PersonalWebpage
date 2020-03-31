@@ -191,3 +191,15 @@ body {
 .left_margin{
 	margin-left: 40px;
 }
+
+.fixedButton{
+	position:fixed;
+	bottom:0px;
+	left:auto;
+	right:30px;
+	color: pink;
+}
+
+.pinkColor{
+	color:pink;
+}
